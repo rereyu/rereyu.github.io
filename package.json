@@ -10,7 +10,7 @@
     "gatsby": "^1.9.119",
     "gatsby-link": "^1.6.28",
     "gatsby-plugin-react-helmet": "^1.0.8",
-    "gatsby-plugin-typescript": "^1.4.10"
+    "gatsby-plugin-typescript": "^2.4.16"
   },
   "keywords": [
     "gatsby, typescript"
