@@ -1,1 +1,1 @@
-<a rel="me" href="https://oransns.com/@rereyu">Mastodon</a>
+<a rel="me" href="https://mastodon.juggler.jp/@rereyu">Mastodon</a>
