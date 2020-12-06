@@ -10,7 +10,7 @@
     "@types/react-dom": "17.0.0",
     "gatsby": "^1.9.119",
     "gatsby-link": "^1.6.28",
-    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-react-helmet": "^3.3.10",
     "gatsby-plugin-typescript": "^2.8.0",
     "minimist": "^1.2.5",
     "open": "^7.3.0",
